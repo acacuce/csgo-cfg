@@ -160,8 +160,8 @@ Here's another (more recent and also relevant) 3kliksphilip video on `Effect Det
 
 ### Mouse settings
 
-- `DPI`: **1600**
-  - I have a rather high DPI to avoid pixel skipping, see [3kliksphilip video about it](https://www.youtube.com/watch?v=8XNUp70mDlQ). I counterbalance this higher than average DPI by having an in-game sensitivity set to `0.5`.
+- `DPI`: **800**
+  - I have a rather high DPI to avoid pixel skipping, see [3kliksphilip video about it](https://www.youtube.com/watch?v=8XNUp70mDlQ). I counterbalance this higher than average DPI by having an in-game sensitivity set to `1.09`.
 - `Polling Rate`: **1000Hz**
   - The amount of time per second that your OS will poll your mouse. If you have a wired mouse you want to set this to it's highest value possible. If you have a wireless mouse you also need to think about battery life and maybe set it to 500Hz or 250Hz if you don't feel any difference.
 
